@@ -128,7 +128,6 @@
     <Content Include="img\checked.png" />
     <Content Include="img\delete.png" />
     <Content Include="img\unchecked.png" />
-    <Content Include="json\TextFile1.txt" />
   </ItemGroup>
   <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
